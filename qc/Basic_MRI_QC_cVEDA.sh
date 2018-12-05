@@ -338,7 +338,7 @@ foreach sub ($argv)
 	echo "	Gray matter will have higher std dev than white matter, because it's more active metabolically > physiological noise" >> $out_echo
 	echo "	Also useful to spot any N/2 ghosting artefacts" >> $out_echo
 	echo "MASD:	Median of absolute values of Successive Squared Differences times 1.4826 (to scale it like standard deviation)" >> $out_echo
-	echo "	Similar to TSNR with additional advantage of identyfying subtle slice reconstruction artefacts" >> $out_echo
+	echo "	Similar to TSTD with additional advantage of identyfying subtle slice reconstruction artefacts" >> $out_echo
 	echo "" >> $out_echo
 	echo "T1w QC :" >> $out_echo
 	echo "	Look for artefacts such as ringing, blurring, ghosting, and striping/ or incomplete head coverage" >> $out_echo
