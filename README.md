@@ -5,7 +5,7 @@ Basic information is available from the [project wiki](https://github.com/cveda/
 ##### `protocols`
 
 MRI protocols used by each acquisiton centres, when possible in the form of an EDX file for Siemens
-scanners and an ExamCard for Philips scanner, and as a human-readable export in PDF or text format.
+scanners or an ExamCard for Philips scanners, and as a human-readable export in PDF or text format.
 
 ##### `qc`
 
