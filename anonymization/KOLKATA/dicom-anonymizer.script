@@ -3,8 +3,8 @@
  <p t="PROFILENAME">DICOM-PS3.15E-Basic</p>
  <p t="PROJECTNAME">C-VEDA_MRI</p>
  <p t="SHORTNAME">C-VEDA_MRI</p>
- <p t="SITEID">16</p>
- <p t="SITENAME">NIMHANS</p>
+ <p t="SITEID">13</p>
+ <p t="SITENAME">KOLKATA</p>
  <p t="TRIALNAME">C-VEDA</p>
  <p t="UIDROOT">9999</p>
  <e en="T" t="00080005" n="SpecificCharacterSet">@keep()</e>
