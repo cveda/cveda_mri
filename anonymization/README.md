@@ -177,7 +177,7 @@ __________
 #### `archives/2016-06-29`
 
 Initial script for all acquisition centres.
-* At this point DICOM tag (0010,0020) _PatientID_ is not removed. It is suposed to contain PSC1.
+* At this point DICOM tag (0010,0020) _PatientID_ is not removed. It is supposed to contain PSC1.
 * DICOM tags (0010,4000) _PatientComments_ and (0020,4000) _ImageComments_ are removed.
 
 [1]: http://mircwiki.rsna.org/index.php?title=DicomEditor

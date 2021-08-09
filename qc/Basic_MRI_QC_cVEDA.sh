@@ -329,7 +329,7 @@ foreach sub ($argv)
 	echo "" >> $out_echo
 	echo "DWI QC :" >> $out_echo
 	echo "	[1] Blip Up data should be acquired in P>>A phase encode and Blip down data in A>>P" >> $out_echo
-	echo "	[2] Atleast 1 b0 & >80% of high b should be of good quality" >> $out_echo
+	echo "	[2] At least 1 b0 & >80% of high b should be of good quality" >> $out_echo
 	echo "" >> $out_echo
 	echo "rsfMRI QC:" >> $out_echo
 	echo "TSNR:	Gray matter and ventricles have lower temporal signal to noise ratio (TSNR) than white matter" >> $out_echo
